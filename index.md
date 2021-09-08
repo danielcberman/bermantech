@@ -1,5 +1,5 @@
 ---
-title: Berman Tech
+title: Berman Tech | Computer Consultant and Technical Trainer in Tricities, WA
 layout: home
 description: Creating affordable and useful technology tools to empower you and your business.
 intro_image: "images/illustrations/pointing.svg"
