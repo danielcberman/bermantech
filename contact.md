@@ -1,14 +1,12 @@
 ---
 title: Contact Berman Tech
 layout: contact
-description: Contact Berman Tech via phone, email during our hours of operation.
+description: Call Berman Tech at (509) 492-5434 or email us daniel@danielcberman.com for understandable technology.
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
-## Hours
-
-| Day       | Opening Hours   |
+| Day       | Business Hours   |
 | --------- | --------------- |
 | Monday    | 8:00am - 8:00pm |
 | Tuesday   | 8:00am - 8:00pm |
