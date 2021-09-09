@@ -7,7 +7,6 @@ description: Contact Berman Tech via phone, email during our hours of operation.
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
 ## Hours
-
 | Day       | Opening Hours   |
 | --------- | --------------- |
 | Monday    | 8:00am - 8:00pm |
